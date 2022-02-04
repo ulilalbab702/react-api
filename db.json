@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "afif",
+      "alamat": "Jakarta",
+      "umur": 18,
+      "email": "afif@gmail.com"
+    },
+    {
+      "id": 2,
+      "nama": "ulil",
+      "alamat": "Temanggung",
+      "umur": 18,
+      "email": "ulil@gmail.com"
+    },
+    {
+      "id": 3,
+      "nama": "amin",
+      "alamat": "Jombang",
+      "umur": 18,
+      "email": "amin@gmail.com"
+    }
+  ]
+}
