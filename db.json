@@ -27,6 +27,13 @@
       "alamat": "Jombang",
       "umur": 18,
       "email": "ayyub@gmail.com"
+    },
+    {
+      "id": 5,
+      "nama": "test",
+      "alamat": "Temanggung",
+      "umur": 18,
+      "email": "test@gmail.com"
     }
   ]
 }
